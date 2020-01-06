@@ -4,7 +4,7 @@ These notebooks have been created by [Jonathan Chung](https://github.com/jonomon
 
 ## Setup
 
-`git clone https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet --recursive`
+`git clone https://github.com/imtiyazs/handwritten-text-recognition-for-apache-mxnet --recursive`
 
 You need to install SCLITE for WER evaluation
 You can follow the following bash script from this folder:
